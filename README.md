@@ -7,10 +7,10 @@ use Tailwind CSS (https://tailwindcss.com/docs/guides/create-react-app)
 ### Pricing Card 
 simple card design and simple data
 
-# Rechart (https://recharts.org/en-US/guide)
+# Rechart 
 1.Responsive 
 2.Simple data
-3.BarChart, LineChart
+3.BarChart, LineChart (https://recharts.org/en-US/guide)
 
 # Animation
 react-spring (https://react-spring.dev/)
