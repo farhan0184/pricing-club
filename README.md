@@ -1,16 +1,16 @@
-### Responsive react js 
-use heroIcon (https://heroicons.com/)
-use Tailwind CSS (https://tailwindcss.com/docs/guides/create-react-app)
+# Responsive react js 
+Use heroIcon (https://heroicons.com/)
+Use Tailwind CSS (https://tailwindcss.com/docs/guides/create-react-app)
 
-### Navbar
+## Navbar
 
-### Pricing Card 
-simple card design and simple data
+## Pricing Card 
+Simple card design and simple data
 
-# Rechart 
+### Rechart 
 1.Responsive 
 2.Simple data
 3.BarChart, LineChart (https://recharts.org/en-US/guide)
 
-# Animation
+### Animation
 react-spring (https://react-spring.dev/)
