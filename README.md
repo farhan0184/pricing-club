@@ -1,6 +1,7 @@
 # Responsive react js 
 Use heroIcon (https://heroicons.com/)
 Use Tailwind CSS (https://tailwindcss.com/docs/guides/create-react-app)
+Data fetch with Axios (https://axios-http.com/docs/example)
 
 ## Navbar
 
